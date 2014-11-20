@@ -1,0 +1,8 @@
+---
+applications:
+- name: smagelowitz
+  memory: 512M
+  instances: 1
+  host: smagelowitz
+  domain: mybluemix.net
+  path: .
