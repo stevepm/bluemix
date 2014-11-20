@@ -6,3 +6,5 @@ applications:
   host: smagelowitz
   domain: mybluemix.net
   path: .
+  services:
+  - postgres
